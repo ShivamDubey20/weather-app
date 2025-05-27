@@ -22,8 +22,8 @@ A modern, responsive weather application built with TypeScript and React, featur
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-typescript.git
-cd weather-typescript
+git clone https://github.com/ShivamDubey20/weather-app.git
+cd weather-app
 ```
 
 2. Install dependencies:
